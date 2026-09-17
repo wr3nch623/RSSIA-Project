@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Local files that are from the scheduler and environment
+.miniconda/
+*.pbs.o
