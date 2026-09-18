@@ -14,3 +14,6 @@ Command to connect to the VPN cause thanks GlobalProtect on Linux
 sudo gpclient --fix-openssl connect vpn-out.icts.unitn.it \
     --csd-wrapper /usr/libexec/openconnect/hipreport.sh
 
+
+
+The problem is that my "bigdata" macro is probably wrong, so i need to figure out what to save still
