@@ -1,4 +1,5 @@
 duckdb==1.5.5
+duckdb-cli==1.5.5
 pandas
 ipywidgets
 psycopg2-binary
