@@ -219,3 +219,4 @@ __marimo__/
 # Local files that are from the scheduler and environment
 .miniconda/
 *.pbs.o
+dataset/
