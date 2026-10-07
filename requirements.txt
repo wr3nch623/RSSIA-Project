@@ -5,3 +5,6 @@ ipywidgets
 psycopg2-binary
 sqlalchemy
 requests
+rasterio
+matplotlib
+cdsetool
